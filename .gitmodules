@@ -1,0 +1,6 @@
+[submodule "hirosystems/docs"]
+	path = hirosystems/docs
+	url = https://github.com/hirosystems/docs
+[submodule "stacks-network/docs"]
+	path = stacks-network/docs
+	url = https://github.com/stacks-network/docs
