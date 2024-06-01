@@ -2,4 +2,9 @@
 
 # Bitcoin x AI: Training Data
 
-A curated collection of raw data for training models
+A curated collection of raw data for training and fine-tuning models on Bitcoin and Stacks.
+
+| Folder | Purpose                                      |
+| ------ | -------------------------------------------- |
+| audits | Audits of Stacks smart contracts             |
+| docs   | Ecosystem documentation synced as submodules |

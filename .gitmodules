@@ -1,9 +1,9 @@
 [submodule "hirosystems/docs"]
-	path = hirosystems/docs
+	path = docs/hirosystems/docs
 	url = https://github.com/hirosystems/docs
 [submodule "stacks-network/docs"]
-	path = stacks-network/docs
+	path = docs/stacks-network/docs
 	url = https://github.com/stacks-network/docs
 [submodule "stacksgov/sips"]
-	path = stacksgov/sips
+	path = docs/stacksgov/sips
 	url = https://github.com/stacksgov/sips
